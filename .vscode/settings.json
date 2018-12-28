@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "*.m": "matlab",
-        "utility": "cpp"
+        "utility": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp"
     }
 }
